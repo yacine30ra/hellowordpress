@@ -1,3 +1,6 @@
+<Files "readme.html">
+Order Allow, Deny
+</Files>
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
